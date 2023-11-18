@@ -6,6 +6,8 @@ as many pizza as you can afford. There is no problem if you suddenly close the a
 
 However, don't logout, because you will really lose all your orders.
 
+Link to project: https://orderizza-o933oqq4h-valrudyka.vercel.app/
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
