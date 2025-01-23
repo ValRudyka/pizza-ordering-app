@@ -4,7 +4,7 @@ This is a pizza ordering app, where you can order pizza without creating account
 
 as many pizza as you can afford. There is no problem if you suddenly close the app, open again and see that your data is still here.
 
-However, don't logout, because you will really lose all your orders.
+However, don't logout, because you will really lose all your orders. Order a lot of pizza!!!!
 
 # React + Vite
 
